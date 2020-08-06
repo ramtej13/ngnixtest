@@ -25,7 +25,7 @@ SECRET_KEY = 't4s$kan(bn_m=)j(#63705eu#zu(-5wnreyur5o!r16*6g1v&^'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['35.223.69.202']
+ALLOWED_HOSTS = ['35.223.69.202',"127.0.0.1",'localhost']
 
 
 # Application definition
